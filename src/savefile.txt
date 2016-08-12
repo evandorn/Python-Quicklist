@@ -1,0 +1,13 @@
+(dp0
+I0
+S'Eggs'
+p1
+sI1
+g1
+sI2
+S'Bread'
+p2
+sI3
+S'Butter'
+p3
+s.
